@@ -18,7 +18,7 @@ out/
   *-with-replies.*  # same, but including replies/retweets
 ```
 
-**Live:** https://overstepping.github.io/tweet-price-charts/ (served from root `index.html`).
+**Live:** https://three.surf/ (served from root `index.html`).
 
 ## The chart (`out/chart.html`)
 
